@@ -37,6 +37,9 @@
         <mxCell id="xjOxWjVFKg4fIva6HjN1-23" value="goal_converter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xjOxWjVFKg4fIva6HjN1-5">
           <mxGeometry x="10" y="60" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="xjOxWjVFKg4fIva6HjN1-24" value="goal_converter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xjOxWjVFKg4fIva6HjN1-5">
+          <mxGeometry x="160" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="xjOxWjVFKg4fIva6HjN1-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Position von Personen, Informationen zu Hindernissen&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="340.0000000000002" y="200" as="geometry" />
         </mxCell>
