@@ -12,6 +12,9 @@
             <mxPoint x="160" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JRPDhs6f2dIujlbG_xkw-3" target="JRPDhs6f2dIujlbG_xkw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-3" value="IDLE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="150" height="50" as="geometry" />
         </mxCell>
@@ -19,10 +22,10 @@
           <mxGeometry x="380" y="110" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-5" value="WAITING" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="150" height="50" as="geometry" />
+          <mxGeometry x="380" y="210" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-6" value="LOST" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="420" y="290" width="150" height="50" as="geometry" />
+          <mxGeometry x="600" y="110" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
