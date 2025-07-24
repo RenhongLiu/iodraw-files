@@ -83,11 +83,8 @@
         <mxCell id="ZovCDsg-mlXa_jtBh6yw-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="-80" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZovCDsg-mlXa_jtBh6yw-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;(nächster Kandidat)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="470" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZovCDsg-mlXa_jtBh6yw-9" value="Person von der ZED-Kamera erkannt?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="150" width="160" height="120" as="geometry" />
+        <mxCell id="ZovCDsg-mlXa_jtBh6yw-9" value="&amp;nbsp;nächster Kandidat)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="360" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
