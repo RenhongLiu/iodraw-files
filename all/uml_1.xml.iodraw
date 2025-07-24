@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="JRPDhs6f2dIujlbG_xkw-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
