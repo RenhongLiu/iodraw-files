@@ -14,11 +14,19 @@
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Systemstart&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JRPDhs6f2dIujlbG_xkw-2">
           <mxGeometry x="-0.1367" relative="1" as="geometry">
-            <mxPoint x="-13" y="72" as="offset" />
+            <mxPoint x="5" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JRPDhs6f2dIujlbG_xkw-3" target="JRPDhs6f2dIujlbG_xkw-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="372" y="5" />
+              <mxPoint x="372" y="70" />
+              <mxPoint x="365" y="70" />
+              <mxPoint x="365" y="83" />
+              <mxPoint x="385" y="83" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Person erkannt&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JRPDhs6f2dIujlbG_xkw-7">
           <mxGeometry x="-0.2291" y="2" relative="1" as="geometry">
