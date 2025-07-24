@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xjOxWjVFKg4fIva6HjN1-2" value="Perzeptionsschicht&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="50" width="640" height="130" as="geometry" />
+          <mxGeometry x="90" y="80" width="640" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xjOxWjVFKg4fIva6HjN1-4" value="Perzeptionsschicht&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="640" height="130" as="geometry" />
+          <mxGeometry x="90" y="270" width="640" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xjOxWjVFKg4fIva6HjN1-5" value="Perzeptionsschicht&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="640" height="90" as="geometry" />
