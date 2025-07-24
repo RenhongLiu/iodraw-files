@@ -15,8 +15,14 @@
         <mxCell id="JRPDhs6f2dIujlbG_xkw-3" value="IDLE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="110" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JRPDhs6f2dIujlbG_xkw-4" value="IDLE" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-4" value="FOLLOWING" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="440" y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-5" value="WAITING" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="425" y="220" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-6" value="WAITING" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
