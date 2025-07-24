@@ -29,8 +29,8 @@
         <mxCell id="xjOxWjVFKg4fIva6HjN1-5" value="Handlungsschicht" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="640" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xjOxWjVFKg4fIva6HjN1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="xjOxWjVFKg4fIva6HjN1-10" value="zed\_person\_tracker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
