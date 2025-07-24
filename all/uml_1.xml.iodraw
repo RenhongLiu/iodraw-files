@@ -10,6 +10,9 @@
         <mxCell id="xjOxWjVFKg4fIva6HjN1-2" value="Perzeptionsschicht&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="640" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="xjOxWjVFKg4fIva6HjN1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xjOxWjVFKg4fIva6HjN1-4" target="xjOxWjVFKg4fIva6HjN1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xjOxWjVFKg4fIva6HjN1-4" value="Entscheidungsschicht" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="640" height="100" as="geometry" />
         </mxCell>
