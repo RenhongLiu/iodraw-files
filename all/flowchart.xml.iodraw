@@ -86,11 +86,11 @@
         <mxCell id="ZovCDsg-mlXa_jtBh6yw-9" value="&amp;nbsp;nächster Kandidat?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="340" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZovCDsg-mlXa_jtBh6yw-12" value="Ja" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="20" relative="1" as="geometry">
+        <mxCell id="ZovCDsg-mlXa_jtBh6yw-12" value="Ja" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZovCDsg-mlXa_jtBh6yw-9" target="ZovCDsg-mlXa_jtBh6yw-3">
+          <mxGeometry x="-0.4595" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="230" y="250" as="sourcePoint" />
-            <mxPoint x="230" y="290" as="targetPoint" />
+            <mxPoint x="440" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
