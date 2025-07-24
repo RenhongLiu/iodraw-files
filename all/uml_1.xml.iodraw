@@ -55,9 +55,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JRPDhs6f2dIujlbG_xkw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JRPDhs6f2dIujlbG_xkw-5">
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JRPDhs6f2dIujlbG_xkw-5" target="JRPDhs6f2dIujlbG_xkw-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="290" y="335" />
               <mxPoint x="290" y="148" />
@@ -81,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-6" value="LOST" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="715" y="110" width="60" height="50" as="geometry" />
+          <mxGeometry x="670" y="110" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
