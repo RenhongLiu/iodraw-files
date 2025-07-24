@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JRPDhs6f2dIujlbG_xkw-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Person erkannt&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JRPDhs6f2dIujlbG_xkw-18">
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Person erkannt&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Innerhalb 1 Sekunde&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JRPDhs6f2dIujlbG_xkw-18">
           <mxGeometry x="-0.0125" y="5" relative="1" as="geometry">
             <mxPoint x="5" y="-33" as="offset" />
           </mxGeometry>
