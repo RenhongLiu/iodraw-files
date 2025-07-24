@@ -22,7 +22,7 @@
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Person erkannt&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JRPDhs6f2dIujlbG_xkw-7">
           <mxGeometry x="-0.2291" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-3" value="IDLE" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-4" value="FOLLOWING" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="433" y="110" width="90" height="50" as="geometry" />
+          <mxGeometry x="385" y="110" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JRPDhs6f2dIujlbG_xkw-5" target="JRPDhs6f2dIujlbG_xkw-6">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-5" value="WAITING" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="433" y="210" width="90" height="50" as="geometry" />
+          <mxGeometry x="385" y="310" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JRPDhs6f2dIujlbG_xkw-6" target="JRPDhs6f2dIujlbG_xkw-4">
           <mxGeometry relative="1" as="geometry" />
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JRPDhs6f2dIujlbG_xkw-6" value="LOST" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="763" y="110" width="60" height="50" as="geometry" />
+          <mxGeometry x="715" y="110" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
