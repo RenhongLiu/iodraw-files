@@ -28,7 +28,7 @@
           <mxGeometry x="-0.8345" y="30" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="510" y="440" />
+              <mxPoint x="470" y="440" />
               <mxPoint x="120" y="440" />
               <mxPoint x="120" y="305" />
             </Array>
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Person von der ZED-Kamera erkannt?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="140" width="160" height="120" as="geometry" />
+          <mxGeometry x="390" y="140" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="400" width="120" height="40" as="geometry" />
@@ -60,7 +60,7 @@
         <mxCell id="ZovCDsg-mlXa_jtBh6yw-4" value="ZED-Kamera prüft auf Personenerkennung" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="30" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZovCDsg-mlXa_jtBh6yw-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZovCDsg-mlXa_jtBh6yw-3">
+        <mxCell id="ZovCDsg-mlXa_jtBh6yw-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZovCDsg-mlXa_jtBh6yw-3" target="ZovCDsg-mlXa_jtBh6yw-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="50" as="sourcePoint" />
             <mxPoint x="550" y="-60" as="targetPoint" />
@@ -68,7 +68,7 @@
               <mxPoint x="220" y="350" />
               <mxPoint x="370" y="350" />
               <mxPoint x="370" />
-              <mxPoint x="550" />
+              <mxPoint x="470" />
             </Array>
           </mxGeometry>
         </mxCell>
