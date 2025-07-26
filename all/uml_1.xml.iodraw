@@ -86,6 +86,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-21" target="Jv6MpQyW2cdfULrPsZec-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-29" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jv6MpQyW2cdfULrPsZec-28">
+          <mxGeometry x="-0.3397" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="Sind genügend bewegende Punkte vorhanden?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="210" width="145" height="80" as="geometry" />
         </mxCell>
