@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-1" target="Jv6MpQyW2cdfULrPsZec-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-1" value="/current_follow_state&lt;div&gt;/ouster/points&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-2" target="Jv6MpQyW2cdfULrPsZec-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-2" value="Downsampling der Punktwolke" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="245" width="120" height="30" as="geometry" />
@@ -33,7 +39,7 @@
           <mxGeometry x="90" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-9" value="Aktuellen Frame in Buffer speichern (max. 3 Frames)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="305" y="310" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
