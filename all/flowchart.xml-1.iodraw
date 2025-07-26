@@ -8,7 +8,7 @@
           <mxGeometry x="324" y="220" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieLmT4IehyHBgIP35Wzt-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;/ouster/points&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="130" width="130" height="30" as="geometry" />
+          <mxGeometry x="130" y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ieLmT4IehyHBgIP35Wzt-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;/current_follow_state&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="130" width="186" height="30" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="ieLmT4IehyHBgIP35Wzt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.3;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ieLmT4IehyHBgIP35Wzt-1" target="ieLmT4IehyHBgIP35Wzt-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ieLmT4IehyHBgIP35Wzt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.691;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ieLmT4IehyHBgIP35Wzt-2" target="ieLmT4IehyHBgIP35Wzt-0">
+        <mxCell id="ieLmT4IehyHBgIP35Wzt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ieLmT4IehyHBgIP35Wzt-2" target="ieLmT4IehyHBgIP35Wzt-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
