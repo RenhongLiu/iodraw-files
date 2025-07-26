@@ -43,8 +43,8 @@
         <mxCell id="VwSzf42otgDNglXI9m-S-15" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/candidate_targets&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="300" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VwSzf42otgDNglXI9m-S-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/candidate_targets&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="310" width="210" height="40" as="geometry" />
+        <mxCell id="VwSzf42otgDNglXI9m-S-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/current_follow_state&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="210" width="235" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
