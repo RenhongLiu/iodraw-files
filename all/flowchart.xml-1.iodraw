@@ -133,7 +133,7 @@
         <mxCell id="VwSzf42otgDNglXI9m-S-21" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;candidate_verifier&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="307.5" y="610" width="235" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VwSzf42otgDNglXI9m-S-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-22" target="VwSzf42otgDNglXI9m-S-16">
+        <mxCell id="VwSzf42otgDNglXI9m-S-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-22" target="VwSzf42otgDNglXI9m-S-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-22" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;follow_state_machine&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
