@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-1" value="/current_follow_state&lt;div&gt;/ouster/points&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="140" y="90" width="200" height="30" as="geometry" />
+          <mxGeometry x="160" y="70" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-2" target="Jv6MpQyW2cdfULrPsZec-9">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-3" value="LOST-Zustand?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="80" height="60" as="geometry" />
+          <mxGeometry x="220" y="127.5" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-4" value="Keine Verarbeitung, Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="90" y="212.5" width="140" height="40" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-34" value="Alle Centroids als Kandidatenzielpunkte" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="650" y="280" width="130" height="35" as="geometry" />
+          <mxGeometry x="650" y="280" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-36" value="/candidate_targets" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="635" y="340" width="160" height="20" as="geometry" />
