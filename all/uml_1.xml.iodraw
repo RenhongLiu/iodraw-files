@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-17" value="Bewegungserkennung (KD-Tree Matching)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="470" y="90" width="130" height="30" as="geometry" />
+          <mxGeometry x="450" y="90" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-20" target="Jv6MpQyW2cdfULrPsZec-21">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="Sind genügend bewegende Punkte vorhanden?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="462.5" y="210" width="145" height="80" as="geometry" />
+          <mxGeometry x="450" y="200" width="157.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-24" value="Wahrscheinlich kein Mensch erkannt – Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="130" height="45" as="geometry" />
