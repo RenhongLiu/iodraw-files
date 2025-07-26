@@ -42,7 +42,7 @@
           <mxGeometry x="145" y="60" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-2" value="Ist der Abstand zum letzten Zielpunkt groß genug?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="270" width="150" height="120" as="geometry" />
+          <mxGeometry x="390" y="300" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
