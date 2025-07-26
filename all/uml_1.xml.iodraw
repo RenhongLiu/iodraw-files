@@ -92,8 +92,8 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-24" value="Wahrscheinlich kein Mensch erkannt – Abbruch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-27" value="Wahrscheinlich kein Mensch erkannt – Abbruch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="130" height="45" as="geometry" />
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-27" value="Euclidean Clustering der bewegenden Punkte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="82.5" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
