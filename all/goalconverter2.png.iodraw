@@ -86,7 +86,7 @@
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-13" value="LOST für &amp;gt;1s?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xx5mxMvuSFSxSoMAacEl-14" value="/move_base/goal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xx5mxMvuSFSxSoMAacEl-14" value="/move_base/cancel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-37.5" y="300" width="175" height="20" as="geometry" />
         </mxCell>
       </root>
