@@ -1,7 +1,0 @@
-```mermaid
-graph TD
-    B["/zed2i/zed_node/obj_det/objects"]
-    B --> C([zed_person_tracker])
-    C --> D["/person_centroid"]
-
-```
