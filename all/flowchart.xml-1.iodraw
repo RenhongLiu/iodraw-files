@@ -5,10 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="yf2Zw3CRRuZxsoRcXsRm-0" value="follow_state_machine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="340" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yf2Zw3CRRuZxsoRcXsRm-1" value="/zed2i/zed_node/obj_det/objects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="280" width="190" height="20" as="geometry" />
+          <mxGeometry x="315" y="220" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yf2Zw3CRRuZxsoRcXsRm-2" value="/zed2i/zed_node/obj_det/objects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="230" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
