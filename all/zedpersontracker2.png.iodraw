@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="opd5Mdr5bAGJpYzzGZ4P-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="opd5Mdr5bAGJpYzzGZ4P-1" value="/zed2i/zed_node/obj_det/objects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="opd5Mdr5bAGJpYzzGZ4P-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="opd5Mdr5bAGJpYzzGZ4P-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
