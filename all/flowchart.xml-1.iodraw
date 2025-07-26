@@ -41,10 +41,10 @@
           <mxGeometry x="505" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-15" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/candidate_targets&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="390" width="210" height="40" as="geometry" />
+          <mxGeometry x="815" y="360" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/current_follow_state&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="750" y="500" width="235" height="40" as="geometry" />
+          <mxGeometry x="312.5" y="630" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-18" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;move_base_config&lt;br&gt;(move_base)&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="92.5" y="210" width="220" height="60" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="440" y="250" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-20" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;candidate_extractor&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="835" y="270" width="235" height="40" as="geometry" />
+          <mxGeometry x="802.5" y="250" width="235" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
