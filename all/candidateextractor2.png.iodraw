@@ -1,11 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 QuarkPC/4.2.7.457" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="141" dy="70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.306;exitY=1.05;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;exitPerimeter=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-1" target="Jv6MpQyW2cdfULrPsZec-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;exitX=0.299;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-1" target="Jv6MpQyW2cdfULrPsZec-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="130" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-1" value="/current_follow_state&lt;div&gt;/ouster/points&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="100" y="97.5" width="200" height="30" as="geometry" />
