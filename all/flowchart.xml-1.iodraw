@@ -26,7 +26,7 @@
           <mxGeometry x="460" y="30" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-8" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/state&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="575" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="505" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-9" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/person_centroid&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-246" y="310" width="180" height="40" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="157.5" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-13" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/odom&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="575" y="470" width="90" height="40" as="geometry" />
+          <mxGeometry x="505" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-15" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/candidate_targets&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="300" width="210" height="40" as="geometry" />
+          <mxGeometry x="445" y="300" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/current_follow_state&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="500" width="235" height="40" as="geometry" />
