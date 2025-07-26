@@ -58,13 +58,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-7" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;Roboter&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;von Unitree&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-246" y="890" width="180" height="60" as="geometry" />
+          <mxGeometry x="362.5" y="410" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-8" target="VwSzf42otgDNglXI9m-S-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-8" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/state&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-201" y="990" width="90" height="40" as="geometry" />
+          <mxGeometry x="610" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-9" target="VwSzf42otgDNglXI9m-S-0">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/current_follow_state&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="1169" width="235" height="40" as="geometry" />
+          <mxGeometry x="170" y="1000" width="235" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-18" target="VwSzf42otgDNglXI9m-S-12">
           <mxGeometry relative="1" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-22" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;follow_state_machine&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-266" y="1180" width="260" height="40" as="geometry" />
+          <mxGeometry x="-266" y="1070" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.287;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-15" target="VwSzf42otgDNglXI9m-S-21">
           <mxGeometry relative="1" as="geometry" />
