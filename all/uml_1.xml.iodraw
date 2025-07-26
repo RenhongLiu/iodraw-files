@@ -129,11 +129,11 @@
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-40" value="Nein" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;" vertex="1" connectable="0" parent="Jv6MpQyW2cdfULrPsZec-39">
           <mxGeometry x="-0.0277" y="2" relative="1" as="geometry">
-            <mxPoint x="93" y="-2" as="offset" />
+            <mxPoint x="-8" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-38" value="Warten, Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="90" y="332.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="120" y="332.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
