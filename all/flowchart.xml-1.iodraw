@@ -17,8 +17,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmK2fGPI_iIEgYEuXbIl-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nmK2fGPI_iIEgYEuXbIl-3" value="IDLE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmK2fGPI_iIEgYEuXbIl-4" value="IDLE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
