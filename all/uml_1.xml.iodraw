@@ -42,7 +42,7 @@
           <mxGeometry x="300" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-12" value="3 Frames im Buffer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="110" height="80" as="geometry" />
+          <mxGeometry x="305" y="360" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
