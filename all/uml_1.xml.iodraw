@@ -47,7 +47,7 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-12" value="3 Frames im Buffer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="360" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Jv6MpQyW2cdfULrPsZec-16" parent="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="Jv6MpQyW2cdfULrPsZec-16" parent="1" source="Jv6MpQyW2cdfULrPsZec-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="430" as="sourcePoint" />
           </mxGeometry>
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-16" value="Keine Verarbeitung, Abbruch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="375" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
