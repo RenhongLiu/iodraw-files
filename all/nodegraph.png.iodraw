@@ -157,7 +157,7 @@
         <mxCell id="VwSzf42otgDNglXI9m-S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.287;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-15" target="VwSzf42otgDNglXI9m-S-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6oXTQL9b6kXk-voT8Q8-0" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/move_base/goal&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="E6oXTQL9b6kXk-voT8Q8-0" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/move_base/cancel&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="170" width="245" height="40" as="geometry" />
         </mxCell>
       </root>
