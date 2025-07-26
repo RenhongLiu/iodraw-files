@@ -47,6 +47,11 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-12" target="Jv6MpQyW2cdfULrPsZec-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-19" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jv6MpQyW2cdfULrPsZec-18">
+          <mxGeometry x="-0.8678" y="4" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-12" value="3 Frames im Buffer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="360" width="110" height="70" as="geometry" />
         </mxCell>
@@ -63,6 +68,9 @@
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-17" value="Bewegungserkennung (KD-Tree Matching)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-20" value="Bewegungserkennung (KD-Tree Matching)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
