@@ -42,7 +42,7 @@
           <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBoft8M3daP2JxDl5wTm-2" value="/zed2i/zed_node/obj_det/objects" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="50" width="230" height="60" as="geometry" />
+          <mxGeometry x="115" y="110" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
