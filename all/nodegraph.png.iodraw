@@ -56,6 +56,11 @@
         <mxCell id="VwSzf42otgDNglXI9m-S-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-6" target="VwSzf42otgDNglXI9m-S-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VwSzf42otgDNglXI9m-S-58" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 18px;&quot;&gt;LOST-Zustand&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VwSzf42otgDNglXI9m-S-39">
+          <mxGeometry x="-0.2333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-6" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/ouster/points&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="510" width="165" height="40" as="geometry" />
         </mxCell>
@@ -137,7 +142,7 @@
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-57" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 18px;&quot;&gt;LOST-Zustand&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VwSzf42otgDNglXI9m-S-41">
           <mxGeometry x="0.2697" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="38" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-21" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 18px;&quot;&gt;candidate_verifier&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
