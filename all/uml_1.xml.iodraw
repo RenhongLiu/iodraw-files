@@ -106,8 +106,14 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-27" value="Euclidean Clustering der bewegenden Punkte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="82.5" width="130" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-30" target="Jv6MpQyW2cdfULrPsZec-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-30" value="Berechnung des Centroid für jeden Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="165" width="130" height="45" as="geometry" />
+          <mxGeometry x="650" y="150" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-32" value="Berechnung des Centroid für jeden Cluster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="215" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
