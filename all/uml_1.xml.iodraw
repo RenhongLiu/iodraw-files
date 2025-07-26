@@ -72,6 +72,9 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-20" value="Extrahieren der bewegenden Punkte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="LOST-Zustand?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
