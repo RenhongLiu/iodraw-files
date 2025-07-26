@@ -132,6 +132,9 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-36" value="/candidate_targets" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="635" y="340" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-38" value="Keine Verarbeitung, Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="100" y="205" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
