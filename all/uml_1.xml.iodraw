@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-1" value="/current_follow_state&lt;div&gt;/ouster/points&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="180" y="90" width="160" height="30" as="geometry" />
+          <mxGeometry x="140" y="90" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-2" target="Jv6MpQyW2cdfULrPsZec-9">
           <mxGeometry relative="1" as="geometry" />
@@ -36,13 +36,13 @@
           <mxGeometry x="220" y="140" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-4" value="Keine Verarbeitung, Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="110" y="212.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="90" y="212.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-9" target="Jv6MpQyW2cdfULrPsZec-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-9" value="Aktuellen Frame in Buffer speichern (max. 3 Frames)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="300" y="290" width="120" height="50" as="geometry" />
+          <mxGeometry x="280" y="290" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-12" target="Jv6MpQyW2cdfULrPsZec-17">
           <mxGeometry relative="1" as="geometry" />
