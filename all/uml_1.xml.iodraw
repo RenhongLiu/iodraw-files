@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-29" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jv6MpQyW2cdfULrPsZec-28">
           <mxGeometry x="-0.3397" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="Sind genügend bewegende Punkte vorhanden?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-27" value="Euclidean Clustering der bewegenden Punkte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="82.5" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-30" value="Euclidean Clustering der bewegenden Punkte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="92.5" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
