@@ -98,11 +98,11 @@
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-16" value="&lt;div&gt;Ist genug Zeit seit der letzten Zielpunktpublikation vergangen?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="320" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xx5mxMvuSFSxSoMAacEl-17" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xx5mxMvuSFSxSoMAacEl-17" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="685" y="330" as="sourcePoint" />
-            <mxPoint x="424" y="230" as="targetPoint" />
+            <mxPoint x="440" y="321" as="sourcePoint" />
+            <mxPoint x="390" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
