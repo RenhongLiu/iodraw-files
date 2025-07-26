@@ -49,7 +49,7 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;" edge="1" parent="1" source="Jv6MpQyW2cdfULrPsZec-12" target="Jv6MpQyW2cdfULrPsZec-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="353" />
+              <mxPoint x="430" y="328" />
               <mxPoint x="430" y="105" />
             </Array>
           </mxGeometry>
