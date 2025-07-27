@@ -49,14 +49,14 @@
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-13" value="candidate_verifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YF7Rdv0IuRk2zOuBLIba-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.53;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-13" target="YF7Rdv0IuRk2zOuBLIba-10">
+        <mxCell id="YF7Rdv0IuRk2zOuBLIba-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.528;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-13" target="YF7Rdv0IuRk2zOuBLIba-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-24" target="YF7Rdv0IuRk2zOuBLIba-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-24" value="follow_state_machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.084;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-6" target="YF7Rdv0IuRk2zOuBLIba-10">
           <mxGeometry relative="1" as="geometry" />
