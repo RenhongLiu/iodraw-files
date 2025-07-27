@@ -40,6 +40,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-3" target="UrDRRq_gaJCIa39FaAeU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrDRRq_gaJCIa39FaAeU-22">
+          <mxGeometry x="-0.4933" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gerade am Verifizieren oder Kandidatenanzahl ungültig?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="126.25" y="250" width="157.5" height="110" as="geometry" />
         </mxCell>
