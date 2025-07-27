@@ -13,8 +13,18 @@
         <mxCell id="UrDRRq_gaJCIa39FaAeU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-1" target="UrDRRq_gaJCIa39FaAeU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-7" value="Nein" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrDRRq_gaJCIa39FaAeU-5">
+          <mxGeometry x="-0.0635" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-1" target="UrDRRq_gaJCIa39FaAeU-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-8" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UrDRRq_gaJCIa39FaAeU-6">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-1" value="LOST?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="170" width="80" height="50" as="geometry" />
@@ -23,7 +33,7 @@
           <mxGeometry x="-40" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Gerade am Verifizieren oder Kandidatenanzahl ungültig?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="132.5" y="280" width="145" height="90" as="geometry" />
+          <mxGeometry x="132.5" y="250" width="145" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
