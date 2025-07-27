@@ -8,7 +8,13 @@
           <mxGeometry x="190" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-1" value="/move_base_simple/goal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2dkJ74nH_3g3sr4DAf-2" value="/ouster/points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ey2dkJ74nH_3g3sr4DAf-3" value="/ouster/points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="320" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
