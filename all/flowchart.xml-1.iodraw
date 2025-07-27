@@ -53,7 +53,7 @@
         <mxCell id="UrDRRq_gaJCIa39FaAeU-15" value="ZED&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;erkennt Person oder Zustand FOLLOWING?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="80" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UrDRRq_gaJCIa39FaAeU-16" value="Transformiere in base-Koordinaten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-16" value="Abbruch, Roboter stoppt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="165" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
