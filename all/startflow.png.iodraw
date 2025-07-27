@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-1" value="ZED" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="172" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="181" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-2" value="LiDAR" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="172" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="181" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-3" value="Roboter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="172" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="181" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-6" value="a1_state_to_odom" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="230" width="160" height="30" as="geometry" />
@@ -57,8 +57,8 @@
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="190" as="sourcePoint" />
-            <mxPoint x="450" y="450" as="targetPoint" />
+            <mxPoint x="440" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
