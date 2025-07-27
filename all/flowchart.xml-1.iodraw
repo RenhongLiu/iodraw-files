@@ -7,7 +7,7 @@
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-0" value="move_base_config&lt;div&gt;(move_base)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ey2dkJ74nH_3g3sr4DAf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ey2dkJ74nH_3g3sr4DAf-1" value="/move_base_simple/goal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
