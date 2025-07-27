@@ -5,19 +5,19 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-0" value="move_base_config&lt;div&gt;(move_base)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="120" width="140" height="60" as="geometry" />
+          <mxGeometry x="190" y="250" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-1" value="/move_base_simple/goal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="220" width="150" height="30" as="geometry" />
+          <mxGeometry x="10" y="220" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-2" value="/ouster/points" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="30" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-3" value="/move_base/cancel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="270" width="120" height="30" as="geometry" />
+          <mxGeometry x="50" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-4" value="/cmd_vel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="370" width="70" height="30" as="geometry" />
+          <mxGeometry x="360" y="250" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
