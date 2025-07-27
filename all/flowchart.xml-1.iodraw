@@ -13,7 +13,7 @@
         <mxCell id="UrDRRq_gaJCIa39FaAeU-2" value="Keine Aktion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UrDRRq_gaJCIa39FaAeU-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-3" value="Gerade am Verifizieren&amp;lt;br/&amp;gt;oder Kandidatenanzahl ungültig?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
