@@ -19,6 +19,15 @@
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-3" value="Roboter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YF7Rdv0IuRk2zOuBLIba-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-6" target="YF7Rdv0IuRk2zOuBLIba-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="290" />
+              <mxPoint x="460" y="450" />
+              <mxPoint x="395" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-6" value="a1_state_to_odom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
