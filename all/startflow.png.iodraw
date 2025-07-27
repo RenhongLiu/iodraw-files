@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-1" value="ZED" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-2" value="LiDAR" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-3" value="Roboter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="160" width="80" height="30" as="geometry" />
