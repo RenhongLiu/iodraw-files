@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-12" value="candidate_extractor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="390" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-13" value="candidate_verifier" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="450" width="120" height="60" as="geometry" />
@@ -51,8 +51,8 @@
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Lucida Console;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="340" as="sourcePoint" />
-            <mxPoint x="460" y="340" as="targetPoint" />
+            <mxPoint x="40" y="320" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Lucida Console;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
