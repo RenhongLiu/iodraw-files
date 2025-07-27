@@ -23,7 +23,7 @@
           <mxGeometry x="275" y="360" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-11" value="move_base_config&lt;div&gt;(move_base)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="460" width="150" height="30" as="geometry" />
+          <mxGeometry x="170" y="450" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-12" target="YF7Rdv0IuRk2zOuBLIba-13">
           <mxGeometry relative="1" as="geometry" />
