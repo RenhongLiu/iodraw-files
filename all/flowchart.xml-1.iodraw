@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-1" value="ZED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-2" value="LiDAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="YF7Rdv0IuRk2zOuBLIba-13" value="candidate_verifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YF7Rdv0IuRk2zOuBLIba-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-13">
+        <mxCell id="YF7Rdv0IuRk2zOuBLIba-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YF7Rdv0IuRk2zOuBLIba-13" target="YF7Rdv0IuRk2zOuBLIba-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="570" as="targetPoint" />
           </mxGeometry>
