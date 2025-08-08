@@ -52,7 +52,7 @@
         <mxCell id="JRPDhs6f2dIujlbG_xkw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=14;" parent="1" source="JRPDhs6f2dIujlbG_xkw-5" target="JRPDhs6f2dIujlbG_xkw-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JRPDhs6f2dIujlbG_xkw-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Person nicht erkannt&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Innerhalb 1 Sekunde&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;fontSize=14;" parent="JRPDhs6f2dIujlbG_xkw-9" vertex="1" connectable="0">
+        <mxCell id="JRPDhs6f2dIujlbG_xkw-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Person not detected&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;within 1 second&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;fontSize=14;" parent="JRPDhs6f2dIujlbG_xkw-9" vertex="1" connectable="0">
           <mxGeometry x="-0.2166" y="2" relative="1" as="geometry">
             <mxPoint x="-34" y="2" as="offset" />
           </mxGeometry>
