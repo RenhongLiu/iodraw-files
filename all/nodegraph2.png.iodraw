@@ -92,7 +92,7 @@
         <mxCell id="VwSzf42otgDNglXI9m-S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-9" target="VwSzf42otgDNglXI9m-S-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VwSzf42otgDNglXI9m-S-9" value="&lt;font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;/person_centroid&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="VwSzf42otgDNglXI9m-S-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Person&#39;s position&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-246" y="310" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VwSzf42otgDNglXI9m-S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VwSzf42otgDNglXI9m-S-11" target="VwSzf42otgDNglXI9m-S-18" edge="1">
