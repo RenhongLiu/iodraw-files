@@ -135,7 +135,7 @@
         <mxCell id="UrDRRq_gaJCIa39FaAeU-18" value="All candidate verifier?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="548" y="330" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UrDRRq_gaJCIa39FaAeU-19" value="LOST bleibt, Warten auf neue Kandidaten" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-19" value="LOST, wait for new candidates" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="673" y="250" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
