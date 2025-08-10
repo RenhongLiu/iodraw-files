@@ -130,7 +130,7 @@
             <mxPoint x="6" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-38" value="Warten, Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-38" value="wait, cancel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="120" y="307.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
