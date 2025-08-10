@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-10" value="Convert to robot coordinate system" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="345" y="110" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-11" target="UrDRRq_gaJCIa39FaAeU-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
