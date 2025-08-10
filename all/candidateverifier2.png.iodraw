@@ -48,7 +48,7 @@
             <mxPoint x="2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UrDRRq_gaJCIa39FaAeU-3" value="Is now verifying or candidate number invalid?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-3" value="&amp;nbsp; &amp;nbsp;Is now verifying or candidate number invalid?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="126.25" y="250" width="157.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-9" target="UrDRRq_gaJCIa39FaAeU-10" edge="1">
