@@ -67,7 +67,7 @@
             <mxPoint x="230" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xx5mxMvuSFSxSoMAacEl-9" value="/move_base_simple/goal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Xx5mxMvuSFSxSoMAacEl-9" value="publish goal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-45" y="435" width="195" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xx5mxMvuSFSxSoMAacEl-7" target="Xx5mxMvuSFSxSoMAacEl-9" edge="1">
@@ -87,12 +87,17 @@
           <mxGeometry x="-10" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-14" value="cancel goal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-34.37" y="260" width="168.75" height="20" as="geometry" />
+          <mxGeometry x="-34.379999999999995" y="280" width="168.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-15" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xx5mxMvuSFSxSoMAacEl-13" target="Xx5mxMvuSFSxSoMAacEl-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="130" as="sourcePoint" />
             <mxPoint x="230" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybuSyW71W9fapbLtyBBf-0" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xx5mxMvuSFSxSoMAacEl-15">
+          <mxGeometry x="-0.304" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-16" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;Has enough time passed since the last publication?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Lucida Console;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
