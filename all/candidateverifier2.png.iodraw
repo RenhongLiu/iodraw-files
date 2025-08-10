@@ -77,7 +77,7 @@
         <mxCell id="UrDRRq_gaJCIa39FaAeU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-12" target="UrDRRq_gaJCIa39FaAeU-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UrDRRq_gaJCIa39FaAeU-12" value="Berechne Drehzeit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-12" value="Calculate rotation time" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="195" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UrDRRq_gaJCIa39FaAeU-13" target="UrDRRq_gaJCIa39FaAeU-15" edge="1">
