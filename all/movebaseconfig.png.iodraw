@@ -31,7 +31,7 @@
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-4" value="velocity command" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ySW3jvvagz49Se5BqRj0-0" value="Cancel goal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ySW3jvvagz49Se5BqRj0-0" value="Robot&#39;s Odometry information" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="260" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
