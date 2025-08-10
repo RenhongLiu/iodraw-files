@@ -65,7 +65,7 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-17" target="Jv6MpQyW2cdfULrPsZec-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-17" value="Bewegungserkennung (KD-Tree Matching)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-17" value="Movement detection (KD-Tree Matching)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="450" y="90" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-20" target="Jv6MpQyW2cdfULrPsZec-21" edge="1">
