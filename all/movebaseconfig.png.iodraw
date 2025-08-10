@@ -13,7 +13,7 @@
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ey2dkJ74nH_3g3sr4DAf-1" target="ey2dkJ74nH_3g3sr4DAf-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ey2dkJ74nH_3g3sr4DAf-1" value="/move_base_simple/goal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ey2dkJ74nH_3g3sr4DAf-1" value="Navigation goal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ey2dkJ74nH_3g3sr4DAf-2" target="ey2dkJ74nH_3g3sr4DAf-0" edge="1">
