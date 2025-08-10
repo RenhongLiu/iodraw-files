@@ -41,7 +41,7 @@
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-0" value="position and&lt;div&gt;system status&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="125" y="110" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xx5mxMvuSFSxSoMAacEl-2" value="Ist der Abstand&lt;div&gt;&amp;nbsp;zum letzten Zielpunkt groß genug?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Lucida Console;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Xx5mxMvuSFSxSoMAacEl-2" value="Is the distance to the last destination large enough?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Lucida Console;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="320" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Xx5mxMvuSFSxSoMAacEl-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="Xx5mxMvuSFSxSoMAacEl-16" edge="1">
