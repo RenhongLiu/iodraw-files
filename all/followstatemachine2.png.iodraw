@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmK2fGPI_iIEgYEuXbIl-13" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Person too close&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-12" vertex="1" connectable="0">
+        <mxCell id="nmK2fGPI_iIEgYEuXbIl-13" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 14px;&quot;&gt;Tracking status is not OK&lt;/span&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Person too close&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-12" vertex="1" connectable="0">
           <mxGeometry x="-0.0974" y="-4" relative="1" as="geometry">
             <mxPoint x="4" y="10" as="offset" />
           </mxGeometry>
