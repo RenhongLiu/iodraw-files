@@ -65,7 +65,7 @@
         <mxCell id="nmK2fGPI_iIEgYEuXbIl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nmK2fGPI_iIEgYEuXbIl-5" target="nmK2fGPI_iIEgYEuXbIl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nmK2fGPI_iIEgYEuXbIl-20" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 14px;&quot;&gt;Kein Ziel erkannt&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;und &amp;gt;1 Sekunde vergangen&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-9" vertex="1" connectable="0">
+        <mxCell id="nmK2fGPI_iIEgYEuXbIl-20" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;No target detected&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;and &amp;gt;1 second left&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-9" vertex="1" connectable="0">
           <mxGeometry x="-0.072" y="-2" relative="1" as="geometry">
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
