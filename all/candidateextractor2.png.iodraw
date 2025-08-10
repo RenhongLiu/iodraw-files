@@ -59,7 +59,7 @@
             <mxPoint x="5" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-12" value="&amp;nbsp;3 Frames&lt;div&gt;&amp;nbsp;im Buffer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-12" value="&amp;nbsp;3 Frames&lt;div&gt;&amp;nbsp;in Buffer?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="285" y="292.5" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-17" target="Jv6MpQyW2cdfULrPsZec-20" edge="1">
@@ -128,6 +128,11 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-40" value="Nein" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;" parent="Jv6MpQyW2cdfULrPsZec-39" vertex="1" connectable="0">
           <mxGeometry x="-0.0277" y="2" relative="1" as="geometry">
             <mxPoint x="6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7JVEf3LdmbaIcUh1AYr-2" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jv6MpQyW2cdfULrPsZec-39">
+          <mxGeometry x="-0.3569" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-38" value="wait, cancel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
