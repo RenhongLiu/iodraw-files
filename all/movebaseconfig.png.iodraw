@@ -28,7 +28,7 @@
         <mxCell id="ey2dkJ74nH_3g3sr4DAf-3" value="Cancel goal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="220" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ey2dkJ74nH_3g3sr4DAf-4" value="/cmd_vel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ey2dkJ74nH_3g3sr4DAf-4" value="velocity command" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="180" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
