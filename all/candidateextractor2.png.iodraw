@@ -90,10 +90,10 @@
             <mxPoint x="-10" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="Sind genügend bewegende Punkte vorhanden?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="Are there enough moving points?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="450" y="200" width="157.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-24" value="Wahrscheinlich kein Mensch erkannt – Abbruch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-24" value="Probably not a person – Cancel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="463.75" y="317.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-27" target="Jv6MpQyW2cdfULrPsZec-30" edge="1">
