@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmK2fGPI_iIEgYEuXbIl-15" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Person erkannt und&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px;&quot;&gt;Tracking-Status OK&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-14" vertex="1" connectable="0">
+        <mxCell id="nmK2fGPI_iIEgYEuXbIl-15" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Person detected and&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Tracking Status OK&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-14" vertex="1" connectable="0">
           <mxGeometry x="0.0448" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
