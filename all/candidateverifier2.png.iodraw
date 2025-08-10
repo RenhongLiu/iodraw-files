@@ -104,7 +104,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UrDRRq_gaJCIa39FaAeU-15" value="ZED&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;erkennt Person oder Zustand FOLLOWING?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UrDRRq_gaJCIa39FaAeU-15" value="Does ZED detected person or status FOLLOWING?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="369" y="290" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UrDRRq_gaJCIa39FaAeU-16" value="Abbruch,&lt;div&gt;Roboter stoppt&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
