@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmK2fGPI_iIEgYEuXbIl-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;Kein Ziel erkannt&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-18" vertex="1" connectable="0">
+        <mxCell id="nmK2fGPI_iIEgYEuXbIl-19" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Lucida Console&quot;&gt;No person detected&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nmK2fGPI_iIEgYEuXbIl-18" vertex="1" connectable="0">
           <mxGeometry x="0.1236" y="-1" relative="1" as="geometry">
             <mxPoint x="81" y="34" as="offset" />
           </mxGeometry>
