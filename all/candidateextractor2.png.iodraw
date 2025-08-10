@@ -77,7 +77,7 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-21" target="Jv6MpQyW2cdfULrPsZec-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-26" value="Nein" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;" parent="Jv6MpQyW2cdfULrPsZec-25" vertex="1" connectable="0">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-26" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;" parent="Jv6MpQyW2cdfULrPsZec-25" vertex="1" connectable="0">
           <mxGeometry x="-0.33" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -85,7 +85,7 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-21" target="Jv6MpQyW2cdfULrPsZec-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-29" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;" parent="Jv6MpQyW2cdfULrPsZec-28" vertex="1" connectable="0">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Lucida Console;" parent="Jv6MpQyW2cdfULrPsZec-28" vertex="1" connectable="0">
           <mxGeometry x="-0.3397" y="-1" relative="1" as="geometry">
             <mxPoint x="-10" y="11" as="offset" />
           </mxGeometry>
@@ -93,7 +93,7 @@
         <mxCell id="Jv6MpQyW2cdfULrPsZec-21" value="Are there enough moving points?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="450" y="200" width="157.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Jv6MpQyW2cdfULrPsZec-24" value="Probably not a person – Cancel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+        <mxCell id="Jv6MpQyW2cdfULrPsZec-24" value="Probably not a person – cancel" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="463.75" y="317.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Jv6MpQyW2cdfULrPsZec-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;" parent="1" source="Jv6MpQyW2cdfULrPsZec-27" target="Jv6MpQyW2cdfULrPsZec-30" edge="1">
